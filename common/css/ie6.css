@@ -1,0 +1,4 @@
+@charset "utf-8";
+
+html { filter: expression(document.execCommand("BackgroundImageCache", false, true)); }
+body { font-size: 75%; font-family: Verdana, "MS PGothic", sans-serif; }
